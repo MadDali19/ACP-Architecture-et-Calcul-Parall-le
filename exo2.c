@@ -47,3 +47,5 @@ int main(){
 
     return 0; 
 }
+//execution: gcc -o diviseurs exo2.c -pthread -lm
+//./diviseurs
